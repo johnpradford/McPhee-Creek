@@ -1,0 +1,42 @@
+{
+  "include_continuous_sites": [
+    "CMPC-03 raw data",
+    "CMPC-08 raw data",
+    "CMPC-10 raw data",
+    "CMPC-13 raw data",
+    "CMPC-21 raw data",
+    "CMPC-25 raw data",
+    "WMPC-05 raw data",
+    "WMPC-21 raw data",
+    "WMPC-35 raw data"
+  ],
+  "include_ssm_sites": [
+    "CMPC-03 raw data",
+    "CMPC-08 raw data",
+    "CMPC-10 raw data",
+    "CMPC-13 raw data",
+    "CMPC-21 raw data",
+    "CMPC-25 raw data",
+    "WMPC-05 raw data",
+    "WMPC-21 raw data",
+    "WMPC-35 raw data"
+  ],
+  "continuous": {
+    "start": null,
+    "end": null
+  },
+  "ssm_dates_by_site": {
+    "CMPC-03 raw data": [],
+    "CMPC-08 raw data": [],
+    "CMPC-10 raw data": [],
+    "CMPC-13 raw data": [],
+    "CMPC-18 raw data": [],
+    "CMPC-21 raw data": [],
+    "CMPC-25 raw data": [],
+    "CMPC-26 (adit) raw data": [],
+    "CMPC-28 (Copper Hills) raw data": [],
+    "WMPC-05 raw data": [],
+    "WMPC-21 raw data": [],
+    "WMPC-35 raw data": []
+  }
+}
